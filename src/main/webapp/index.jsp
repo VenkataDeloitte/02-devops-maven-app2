@@ -5,7 +5,7 @@
   <body>
     <h1><font color='red'>Welcom To Truist Bank<font></h1>
 
-    <h1><font color='red'>World Number One Bank!!<font></h1>
+    <h1><font color='green'>World Number One Bank!!<font></h1>
     <p>Truist
       <a href="https://www.truist.com/">click here to go inside Truist site</a></p>
   </body>
