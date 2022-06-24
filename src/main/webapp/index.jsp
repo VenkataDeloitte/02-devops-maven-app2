@@ -3,7 +3,7 @@
     <title>Truist</title>
   </head>
   <body>
-    <h1><font color='red'>Welcom To Truist Bank<font></h1>
+    <h1><font color='red'>$$Welcom To Truist Bank$$<font></h1>
 
     <h1><font color='green'>World Number One Bank!!<font></h1>
     <p>Truist
